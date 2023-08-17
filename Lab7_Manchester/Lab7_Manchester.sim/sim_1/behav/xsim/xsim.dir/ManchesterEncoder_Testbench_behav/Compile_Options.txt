@@ -1,0 +1,1 @@
+-wto "219e9dff47584762a270713d1b6d08cf" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "ManchesterEncoder_Testbench_behav" "xil_defaultlib.ManchesterEncoder_Testbench" -log "elaborate.log" 

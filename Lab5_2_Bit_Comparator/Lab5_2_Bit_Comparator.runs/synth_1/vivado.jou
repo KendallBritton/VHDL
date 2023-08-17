@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun Feb 19 00:10:56 2023
+# Process ID: 35320
+# Current directory: C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.runs/synth_1
+# Command line: vivado.exe -log X_Bit_Compare_Structural.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source X_Bit_Compare_Structural.tcl
+# Log file: C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.runs/synth_1/X_Bit_Compare_Structural.vds
+# Journal file: C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source X_Bit_Compare_Structural.tcl -notrace

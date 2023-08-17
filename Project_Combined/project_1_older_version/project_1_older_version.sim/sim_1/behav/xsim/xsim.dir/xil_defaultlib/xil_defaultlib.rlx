@@ -1,0 +1,20 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/Ram_tb.vhd,1683028624,vhdl,,,,ram_testbench,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/Receiver_tb.vhd,1682567696,vhdl,,,,receiver_testbench,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/Transmitter_tb.vhd,1682778856,vhdl,,,,uart_tx_testbench,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/baudRateGenerator_Testbench.vhd,1679848120,vhdl,,,,baudrategenerator_testbench,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/interface_circuit_tb.vhd,1681777512,vhdl,,,,interface_circuit_tb,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/receiving_subsystem_tb.vhd,1682786720,vhdl,,,,receiving_subsystem_tb,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/uart_subsystem_tb.vhd,1683039502,vhdl,,,,uart_subsystem_tb,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/Ram.vhd,1683059217,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/Ram_tb.vhd,,,ram,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/Receiver.vhd,1679846280,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/Receiver_tb.vhd,,,uart_rx,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/Transmitter.vhd,1683049582,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/Transmitter_tb.vhd,,,uart_tx,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/baudRateGenerator.vhd,1679844940,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/baudRateGenerator_Testbench.vhd,,,baudrategenerator,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/interface_circuit.vhd,1681776652,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/interface_circuit_tb.vhd,,,flag_buff,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/interface_circuit_fifo.vhd,1683037688,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/Ram_tb.vhd,,,fifo,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/interface_circuit_fifo_tb.vhd,1682905266,vhdl,,,,interface_circuit_fifo_tb,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/receiving_subsystem.vhd,1682786302,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/receiving_subsystem_tb.vhd,,,receiving_subsystem,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sources_1/new/uart_subsystem.vhd,1683059273,vhdl,C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version/project_1_older_version.srcs/sim_1/new/uart_subsystem_tb.vhd,,,uart_system,,,,,,,,

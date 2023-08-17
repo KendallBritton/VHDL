@@ -1,0 +1,12 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sim_1/new/baudRateGenerator_Testbench.vhd,1679424833,vhdl,,,,baudrategenerator_testbench,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sim_1/new/interface_circuit_fifo_tb.vhd,1682706373,vhdl,,,,interface_circuit_fifo_tb,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sim_1/new/ram_testbench.vhd,1683055548,vhdl,,,,ram_testbench,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sources_1/new/baudRateGenerator.vhd,1679424790,vhdl,C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sources_1/new/uart_tx_testbench.vhd,,,baudrategenerator,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sources_1/new/fifo.vhd,1682652465,vhdl,C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sim_1/new/ram_testbench.vhd,,,fifo,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sources_1/new/ram.vhd,1683054109,vhdl,C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sim_1/new/ram_testbench.vhd,,,ram,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sources_1/new/uart_tx.vhd,1682084587,vhdl,C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sources_1/new/uart_tx_testbench.vhd,,,uart_tx,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Project_1/Project_1.srcs/sources_1/new/uart_tx_testbench.vhd,1682556762,vhdl,,,,uart_tx_testbench,,,,,,,,

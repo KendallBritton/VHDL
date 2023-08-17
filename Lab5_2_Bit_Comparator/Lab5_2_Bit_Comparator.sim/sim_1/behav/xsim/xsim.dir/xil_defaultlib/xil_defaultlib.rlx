@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sim_1/new/X_Bit_Compare_Dataflow_Testbench.vhd,1676779595,vhdl,,,,x_bit_compare_dataflow_testbench,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sources_1/new/X_Bit_Compare_Behavioral.vhd,1676778295,vhdl,C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sim_1/new/X_Bit_Compare_Dataflow_Testbench.vhd,,,x_bit_compare_behavioral,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sources_1/new/X_Bit_Compare_Dataflow.vhd,1676775343,vhdl,C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sim_1/new/X_Bit_Compare_Dataflow_Testbench.vhd,,,x_bit_compare_dataflow,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sources_1/new/X_Bit_Compare_Structural.vhd,1676779532,vhdl,C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sim_1/new/X_Bit_Compare_Dataflow_Testbench.vhd,,,x_bit_compare_structural,,,,,,,,
+C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sources_1/new/oneBitComparator.vhd,1676778970,vhdl,C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sources_1/new/X_Bit_Compare_Structural.vhd,,,onebitcomparator,,,,,,,,

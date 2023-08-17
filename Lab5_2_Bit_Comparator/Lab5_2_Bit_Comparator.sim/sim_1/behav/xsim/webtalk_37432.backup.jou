@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Feb 18 21:26:48 2023
+# Process ID: 37432
+# Current directory: C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.sim/sim_1/behav/xsim/xsim.dir/X_Bit_Compare_Dataflow_Testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Vivado_Projects/ECGR -notrace

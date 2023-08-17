@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Vivado_Projects/ECGR 5146/Lab7_Manchester/Lab7_Manchester.srcs/sources_1/new/ManchesterEncoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ManchesterEncoder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Vivado_Projects/ECGR 5146/Lab7_Manchester/Lab7_Manchester.srcs/sim_1/new/ManchesterEncoder_Testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ManchesterEncoder_Testbench'

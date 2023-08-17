@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sources_1/new/oneBitComparator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'oneBitComparator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sources_1/new/X_Bit_Compare_Structural.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'X_Bit_Compare_Structural'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Vivado_Projects/ECGR 5146/Lab5_2_Bit_Comparator/Lab5_2_Bit_Comparator.srcs/sim_1/new/X_Bit_Compare_Dataflow_Testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'X_Bit_Compare_Dataflow_Testbench'

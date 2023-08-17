@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Mar  9 01:53:02 2023
+# Process ID: 7064
+# Current directory: C:/Vivado_Projects/ECGR 5146/Lab6_Counter/Lab6_Counter.runs/synth_1
+# Command line: vivado.exe -log mod_M_Counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mod_M_Counter.tcl
+# Log file: C:/Vivado_Projects/ECGR 5146/Lab6_Counter/Lab6_Counter.runs/synth_1/mod_M_Counter.vds
+# Journal file: C:/Vivado_Projects/ECGR 5146/Lab6_Counter/Lab6_Counter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mod_M_Counter.tcl -notrace

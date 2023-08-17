@@ -1,0 +1,106 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue May  2 11:03:35 2023
+# Process ID: 37840
+# Current directory: C:/Vivado_Projects/ECGR 5146/Project_Combined/vhdl_project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34888 C:\Vivado_Projects\ECGR 5146\Project_Combined\vhdl_project_1\vhdl_project_1.xpr
+# Log file: C:/Vivado_Projects/ECGR 5146/Project_Combined/vhdl_project_1/vivado.log
+# Journal file: C:/Vivado_Projects/ECGR 5146/Project_Combined/vhdl_project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Vivado_Projects/ECGR 5146/Project_Combined/vhdl_project_1/vhdl_project_1.xpr}
+save_project_as project_1_older_version {C:/Vivado_Projects/ECGR 5146/Project_Combined/project_1_older_version} -force
+launch_simulation
+source uart_subsystem_tb.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
+set_property -name {xsim.simulate.runtime} -value {300micro} -objects [get_filesets sim_1]
+launch_simulation
+source uart_subsystem_tb.tcl
+set_property -name {xsim.simulate.runtime} -value {300000ns} -objects [get_filesets sim_1]
+relaunch_sim
+close_sim
+launch_simulation
+source uart_subsystem_tb.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+archive_project {C:/Vivado_Projects/ECGR 5146/Project_Combined/VHDL_Project_1.xpr.zip} -temp_dir {C:/Vivado_Projects/ECGR 5146/Project_Combined/vhdl_project_1/.Xil/Vivado-37840-DESKTOP-VOAD3NC} -force -include_local_ip_cache -include_config_settings
+close_sim

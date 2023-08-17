@@ -1,0 +1,21 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1_older_version.srcs/sources_1/new/Receiver.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/baudRateGenerator.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/interface_circuit.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/uart_subsystem.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/interface_circuit_fifo.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/interface_circuit_fifo_tb.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/Transmitter.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/Ram.vhd" \
+"../../../../project_1_older_version.srcs/sources_1/new/receiving_subsystem.vhd" \
+"../../../../project_1_older_version.srcs/sim_1/new/baudRateGenerator_Testbench.vhd" \
+"../../../../project_1_older_version.srcs/sim_1/new/interface_circuit_tb.vhd" \
+"../../../../project_1_older_version.srcs/sim_1/new/uart_subsystem_tb.vhd" \
+"../../../../project_1_older_version.srcs/sim_1/new/Receiver_tb.vhd" \
+"../../../../project_1_older_version.srcs/sim_1/new/Transmitter_tb.vhd" \
+"../../../../project_1_older_version.srcs/sim_1/new/Ram_tb.vhd" \
+"../../../../project_1_older_version.srcs/sim_1/new/receiving_subsystem_tb.vhd" \
+
+# Do not sort compile order
+nosort

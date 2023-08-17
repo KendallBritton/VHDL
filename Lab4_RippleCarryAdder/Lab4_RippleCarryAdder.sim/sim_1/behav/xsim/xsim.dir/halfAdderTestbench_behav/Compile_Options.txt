@@ -1,0 +1,1 @@
+-wto "ad521d72e4cf4397a8ff11f2e5823faf" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "halfAdderTestbench_behav" "xil_defaultlib.halfAdderTestbench" -log "elaborate.log" 

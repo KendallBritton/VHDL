@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Jan 17 15:56:05 2023
+# Process ID: 32192
+# Current directory: C:/Vivado Projects/ECGR 5146/Lab-2-FullAdder/Lab-2-FullAdder.runs/impl_1
+# Command line: vivado.exe -log FullAdder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FullAdder.tcl -notrace
+# Log file: C:/Vivado Projects/ECGR 5146/Lab-2-FullAdder/Lab-2-FullAdder.runs/impl_1/FullAdder.vdi
+# Journal file: C:/Vivado Projects/ECGR 5146/Lab-2-FullAdder/Lab-2-FullAdder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source FullAdder.tcl -notrace

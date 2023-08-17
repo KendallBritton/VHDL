@@ -1,0 +1,44 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue May  2 10:44:02 2023
+# Process ID: 128886
+# Current directory: /home/grayson/Documents/courses/2023/spring/intro_to_vhdl/project1
+# Command line: vivado
+# Log file: /home/grayson/Documents/courses/2023/spring/intro_to_vhdl/project1/vivado.log
+# Journal file: /home/grayson/Documents/courses/2023/spring/intro_to_vhdl/project1/vivado.jou
+# Running On: pop-os, OS: Linux, CPU Frequency: 2208.000 MHz, CPU Physical cores: 4, Host memory: 8332 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/grayson/Documents/courses/2023/spring/intro_to_vhdl/project1/vhdl_project_1/vhdl_project_1.xpr
+launch_simulation
+source uart_subsystem_tb.tcl
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/rx_fifo_dout_sig}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/rx_fifo_en}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/rx_fifo_empty}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/rx_fifo_full}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/ram_dout_sig}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/tx_fifo_dout}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/ram_we}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/rd_addr}} 
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/wr_addr}} 
+run 300 us
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/rx_state_next}} 
+restart
+run 300 us
+current_wave_config {Untitled 1}
+add_wave {{/uart_subsystem_tb/unit/tx_state_next}} 
+restart
+run 300 us
+archive_project /home/grayson/Documents/vhdl_project_1.xpr.zip -force -include_local_ip_cache -include_config_settings
